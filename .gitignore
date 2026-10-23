@@ -1,0 +1,4 @@
+node_modules/
+mysql/
+frontend/cypress/screenshots/
+frontend/cypress/videos/
